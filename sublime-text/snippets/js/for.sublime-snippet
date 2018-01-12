@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[for (${1:let i = 0}, len = ${3:elements.length}; i < len; i++) {
+	${4:expression}
+}]]></content>
+	<tabTrigger>fo</tabTrigger>
+	<description>JS - For loop</description>
+	<scope>source.js</scope>
+</snippet>

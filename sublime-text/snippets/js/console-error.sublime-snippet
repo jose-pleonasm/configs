@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+console.error(${1});
+]]></content>
+	<tabTrigger>ce</tabTrigger>
+	<scope>source.js, source.jsx</scope>
+</snippet>
