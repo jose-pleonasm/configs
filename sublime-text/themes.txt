@@ -1,0 +1,16 @@
+Packages/User/SublimeLinter/Kuroir Theme (SL).tmTheme
+Lanzhou.sublime-theme
+
+Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme
+
+Packages/ayu/ayu-light.tmTheme
+ayu-light.sublime-theme
+
+
+================================================================================
+
+Packages/Agila Theme/Agila Oceanic Next.tmTheme
+Agila.sublime-theme
+
+Packages/Material Theme/schemes/Material-Theme.tmTheme
+Material-Theme.sublime-theme
